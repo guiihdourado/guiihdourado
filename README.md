@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Guilherme Dourado, Software Engineer | FullStack Developer</h1>
 <h3 align="center">Stay Hungry, Stay Foolish</h3>
 
-- 🚀 **My career of more than 15 years in the area of Information Technology has been marked by a series of notable achievements and impactful contributions to the success of the companies in which I worked.**
+🚀 **My career of more than 15 years in the area of Information Technology has been marked by a series of notable achievements and impactful contributions to the success of the companies in which I worked.**
 
-- 🔧 **My commitment to improving my skills and knowledge in the technology area is continuous, always seeking to learn and update myself to face market challenges with confidence and expertise.**
+🔧 **My commitment to improving my skills and knowledge in the technology area is continuous, always seeking to learn and update myself to face market challenges with confidence and expertise.**
 
-- 🌐 **I especially highlight the creation of a robust and versatile component library, which became fundamental in one of the companies I worked for. This library revolutionized our development process, reducing the time needed to create new screens by a staggering 80%. This optimization not only freed up time for the team to focus on more strategic and innovative activities, but also considerably increased the quality of the code produced.**
+🌐 **I especially highlight the creation of a robust and versatile component library, which became fundamental in one of the companies I worked for. This library revolutionized our development process, reducing the time needed to create new screens by a staggering 80%. This optimization not only freed up time for the team to focus on more strategic and innovative activities, but also considerably increased the quality of the code produced.**
 
-- 🤝 **Furthermore, I dedicated myself intensely to sharing my knowledge and skills with other team members, contributing to their professional development and helping them to become valuable professionals for the company.**
+🤝 **Furthermore, I dedicated myself intensely to sharing my knowledge and skills with other team members, contributing to their professional development and helping them to become valuable professionals for the company.**
 
-- 📚 **I also had the opportunity to work as an architect, leading the design of application architecture, ensuring its scalability and flexibility to adapt to the constantly changing demands of the market.**
+📚 **I also had the opportunity to work as an architect, leading the design of application architecture, ensuring its scalability and flexibility to adapt to the constantly changing demands of the market.**
 
-- 👨‍💻 **As a technical decision maker, I have always prioritized business needs and best development practices, ensuring that our technological projects are aligned with the company's strategic objectives. My passion for technology and my commitment to excellence continue to be driving forces in my IT journey, fueling my continued growth and contribution.**
+👨‍💻 **As a technical decision maker, I have always prioritized business needs and best development practices, ensuring that our technological projects are aligned with the company's strategic objectives. My passion for technology and my commitment to excellence continue to be driving forces in my IT journey, fueling my continued growth and contribution.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
